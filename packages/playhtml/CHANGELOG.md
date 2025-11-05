@@ -1,5 +1,16 @@
 # Change Log
 
+## 2.6.0
+
+### Minor Changes
+
+- 3e385c7: Add composable cursor room configuration with filtering and styling options.
+
+### Patch Changes
+
+- Updated dependencies [3e385c7]
+  - @playhtml/common@0.4.0
+
 ## 2.5.1
 
 ### Patch Changes
